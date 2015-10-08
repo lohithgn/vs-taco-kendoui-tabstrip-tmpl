@@ -1,4 +1,5 @@
-#TACO CLI - Kendo UI Drawer Project Template
+#TACO CLI - Kendo UI TabStrip Project Template
+
 A cross-platform mobile device application with TabStrip navigation.
     
 This template shows you how to use the Kendo UI TabStrip widget to implement the navigation between the views of the app. The TabStrip is a footer that spans across the app. This is template provides the Kendo UI Core framework files & references for development with the framework to be used with TACO CLI.
